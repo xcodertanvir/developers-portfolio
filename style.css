@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Roboto', sans-serif;  
+}
+h1{
+    font-size: 45px;
+}
+.orange-color{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.half-width p{
+    width: 90%;
+}
